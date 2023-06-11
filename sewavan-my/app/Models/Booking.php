@@ -21,5 +21,7 @@ class Booking extends Model
         'remark',
         'price',
         'with_driver',
+        'user_id',
+        'van_id',
     ];
 }
