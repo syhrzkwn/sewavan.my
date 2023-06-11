@@ -10,14 +10,12 @@
         <div class="card p-3 mt-4 mb-5">
             <div class="row">
                 <div class="col-sm-12 col-md-8">
-                    @foreach($bookings as $booking)
                     <div class="card">
                         <div class="card-header">My Booking</div>
                         <div class="card-body">
                             <p class="card-text">Look like you don't have any booking yet. Start booking now!</p>
                         </div>
                     </div>
-                    @endforeach
                 </div>
                 <div class="col-sm-12 col-md-4">
                     <div class="card">
