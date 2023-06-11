@@ -92,10 +92,10 @@
         <div class="bg-yellow py-5">
             <h1 class="text-center fw-bold">Lokasi Sewa Van Kami</h1>
             <div class="d-flex justify-content-center mt-5">
-                <p class="me-3"><i class="bi bi-geo-alt text-danger"></i> Kuala Lumpur</p>
-                <p class="me-3"><i class="bi bi-geo-alt text-danger"></i> Selangor</p>
-                <p class="me-3"><i class="bi bi-geo-alt text-danger"></i> Negeri Sembilan</p>
-                <p class="me-3"><i class="bi bi-geo-alt text-danger"></i> Melaka</p>
+                <p class="me-3 fs-5"><i class="bi bi-geo-alt text-danger"></i> Kuala Lumpur</p>
+                <p class="me-3 fs-5"><i class="bi bi-geo-alt text-danger"></i> Selangor</p>
+                <p class="me-3 fs-5"><i class="bi bi-geo-alt text-danger"></i> Negeri Sembilan</p>
+                <p class="me-3 fs-5"><i class="bi bi-geo-alt text-danger"></i> Melaka</p>
             </div>
         </div>
         <div class="p-5" style="background-color: #ececec">
